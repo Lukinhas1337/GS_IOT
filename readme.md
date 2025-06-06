@@ -1,5 +1,6 @@
 🚨 Guardian Grid - Detector de Gestos para Emergências
 <div align="center"> <img src="https://img.shields.io/badge/Python-3.10%2B-blue"> <img src="https://img.shields.io/badge/MediaPipe-0.10.11-orange"> <img src="https://img.shields.io/badge/OpenCV-4.9.0-green"> <a href="https://youtu.be/qXyvo8B5c2I"><img src="https://img.shields.io/badge/Video_Demo-YouTube-red"></a> </div>
+
 📝 Descrição
 Sistema de reconhecimento de gestos para situações de emergência durante apagões, desenvolvido com Python e MediaPipe. Detecta gestos específicos mesmo em ambientes com baixa luminosidade e aciona alertas sonoros.
 
@@ -11,7 +12,9 @@ Nome	RM
 Lucas Carlos Bandeira Teixeira	98640
 Júlio César Zampieri	98772
 João Gabriel Dias Mello do Nascimento	99092
+
 🛠️ Funcionalidades
+
 ✊ Detecção de gestos: SOS, pedido de ajuda e confirmação
 
 🌑 Operação em baixa luminosidade
@@ -21,25 +24,13 @@ João Gabriel Dias Mello do Nascimento	99092
 🖥️ Interface visual em tempo real
 
 ⚙️ Tecnologias
+
 Tecnologia	Versão	Uso
 Python	3.10+	Lógica principal
 MediaPipe	0.10.11	Detecção de gestos
 OpenCV	4.9.0	Processamento de vídeo
 Pygame	2.5.2	Reprodução de sons
-📦 Instalação
-Clone o repositório:
 
-bash
-git clone https://github.com/seu-usuario/guardian-grid.git
-cd guardian-grid
-Instale as dependências:
-
-bash
-pip install -r requirements.txt
-Execute:
-
-bash
-python gesture_detection.py
 🎮 Como Usar
 Posicione sua mão frente à webcam
 
@@ -61,6 +52,7 @@ guardian-grid/
 ├── requirements.txt      # Dependências
 ├── README.md             # Este arquivo
 └── assets/               # Imagens de exemplo
+
 📌 Aplicações Práticas
 🏥 Auxílio em hospitais durante apagões
 
