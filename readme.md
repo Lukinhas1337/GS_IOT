@@ -26,9 +26,13 @@ João Gabriel Dias Mello do Nascimento	99092
 ⚙️ Tecnologias
 
 Tecnologia	Versão	Uso
+
 Python	3.10+	Lógica principal
+
 MediaPipe	0.10.11	Detecção de gestos
+
 OpenCV	4.9.0	Processamento de vídeo
+
 Pygame	2.5.2	Reprodução de sons
 
 🎮 Como Usar
