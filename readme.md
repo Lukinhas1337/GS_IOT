@@ -158,10 +158,5 @@ def main():
     cv2.destroyAllWindows()
 
 if __name__ == "__main__":
-    main() ```
-📋 Arquivo requirements.txt
-opencv-python==4.9.0.80
-mediapipe==0.10.11
-numpy==1.26.4
-pygame==2.5.2
-<div align="center"> Desenvolvido por Lucas (RM98640), Júlio (RM98772) e João (RM99092) </div> 
+    main() 
+
