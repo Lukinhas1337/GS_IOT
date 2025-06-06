@@ -9,19 +9,24 @@ https://youtu.be/qXyvo8B5c2I
 
 👥 Equipe
 Nome	RM
+
 Lucas Carlos Bandeira Teixeira	98640
+
 Júlio César Zampieri	98772
+
 João Gabriel Dias Mello do Nascimento	99092
+
 
 🛠️ Funcionalidades
 
-✊ Detecção de gestos: SOS, pedido de ajuda e confirmação
+ Detecção de gestos: SOS, pedido de ajuda e confirmação
 
-🌑 Operação em baixa luminosidade
+ Operação em baixa luminosidade
 
-🔉 Alerta sonoro ao reconhecer gestos
+ Alerta sonoro ao reconhecer gestos
 
-🖥️ Interface visual em tempo real
+ Interface visual em tempo real
+ 
 
 ⚙️ Tecnologias
 
@@ -34,6 +39,7 @@ MediaPipe	0.10.11	Detecção de gestos
 OpenCV	4.9.0	Processamento de vídeo
 
 Pygame	2.5.2	Reprodução de sons
+
 
 🎮 Como Usar
 Posicione sua mão frente à webcam
@@ -48,6 +54,7 @@ Faça um dos gestos:
 
 O sistema emitirá um alerta sonoro
 
+
 📂 Estrutura do Projeto
 text
 guardian-grid/
@@ -57,12 +64,14 @@ guardian-grid/
 ├── README.md             # Este arquivo
 └── assets/               # Imagens de exemplo
 
+
 📌 Aplicações Práticas
-🏥 Auxílio em hospitais durante apagões
+ Auxílio em hospitais durante apagões
 
-🏠 Segurança para idosos em residências
+ Segurança para idosos em residências
 
-🚨 Comunicação em emergências
+ Comunicação em emergências
+ 
 
 ## 💻 Código Fonte Completo (gesture_detection.py)
 
