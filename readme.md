@@ -5,7 +5,7 @@
 Sistema de reconhecimento de gestos para situações de emergência durante apagões, desenvolvido com Python e MediaPipe. Detecta gestos específicos mesmo em ambientes com baixa luminosidade e aciona alertas sonoros.
 
 🎥 Vídeo Demonstrativo
-https://img.youtube.com/vi/qXyvo8B5c2I/0.jpg
+[https://img.youtube.com/vi/qXyvo8B5c2I/0.jpg](https://youtu.be/qXyvo8B5c2I)
 
 👥 Equipe
 Nome	RM
